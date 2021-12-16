@@ -1,0 +1,11 @@
+Content for the APP:
+
+--> Introduction
+        1. How Does a Blockchain Application Work?
+        2. Installing Dependencies
+
+--> Tutorial Steps
+        1. Project Setup
+        2. List Tasks
+        3. Create Tasks
+        4. Complete Tasks
