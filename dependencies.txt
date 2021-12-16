@@ -1,0 +1,6 @@
+Dependencies used in the Project:
+
+    1. Ganache Personal Blockchain
+    2. Node.js (Checking update: node -v)
+    3. Truffle Framework (Install: npm install -g truffle@5.0.2)
+    4. Metamask Ethereum Wallet
