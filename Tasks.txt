@@ -1,0 +1,6 @@
+Tasks to follow:
+
+1. Write code to list tasks in the smart contracts.
+2. List tasks from the smart contract inside the Truffle console.
+3. List tasks in the client side application
+4. Write a test for listing tasks.
