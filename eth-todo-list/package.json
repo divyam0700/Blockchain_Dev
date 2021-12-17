@@ -10,7 +10,7 @@
     "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && sexit 1"
   },
-  "author": "gregory@dappuniversity.com",
+  "author": "https://github.com/divyam0700",
   "license": "ISC",
   "devDependencies": {
     "bootstrap": ">=4.3.1",
